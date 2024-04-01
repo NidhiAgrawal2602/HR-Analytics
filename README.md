@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 *  Created a HR Analytics dashboard using Power BI
-* In this, I used different chats Like
+* In this, I used different Visualizations and power query formulas Like
   1.  Stacked Column chart
   2.  Matrix
   3.  Donut chart
